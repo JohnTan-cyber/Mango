@@ -1,0 +1,1 @@
+this.Image=loadImage("boy.png")
